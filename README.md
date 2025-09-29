@@ -544,7 +544,7 @@
 - [thesephist/stream](https://github.com/thesephist/stream) - A Twitter-like micro-blog for personal project updates and snippets of thought, written in Oak
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [derekeder/csv-to-html-table](https://github.com/derekeder/csv-to-html-table) - :arrow_down_small: Display any CSV (comma separated values) file as a searchable, filterable, pretty HTML table
-- [ronanru/uploadthing-darkmode](https://github.com/ronanru/uploadthing-darkmode) - Get Darkmode on UploadThing for free
+- [matrv/uploadthing-darkmode](https://github.com/matrv/uploadthing-darkmode) - Get Darkmode on UploadThing for free
 - [dtinth/vxchrome](https://github.com/dtinth/vxchrome) - A Chrome extension that listens to my voice, converts to text, and copies it to the clipboard.
 - [cybergaz/hyprconf](https://github.com/cybergaz/hyprconf) - hyprland configuration along with various other packages configs to call it a complete rice .... believe me when i say it's smooth af
 - [vlbn/avocado](https://github.com/vlbn/avocado) - 🥑 hyprland dot files - a minimalistic bloat-free setup for archlinux
@@ -598,6 +598,7 @@
 - [katie7r/haiku.fail](https://github.com/katie7r/haiku.fail) - If you like haiku / This is not the site for you; / It will make you sad.
 - [kausalflow/connectome](https://github.com/kausalflow/connectome) - A Hugo theme with backlinks for online communities
 - [nulib-oer/lantern](https://github.com/nulib-oer/lantern) - 
+- [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 - [snehesht/blog](https://github.com/snehesht/blog) - Minimalist database less blog engine
 - [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub) - Resource hub for Obsidian resources.
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
@@ -725,7 +726,7 @@
 ## Dart 
 
 - [dstark5/Openlib](https://github.com/dstark5/Openlib) - An Open source app to download and read books from shadow library (Anna’s Archive)
-- [nilsreichardt/AnkiGPT](https://github.com/nilsreichardt/AnkiGPT) - Turn lecture slides into flashcards and export them to Anki. Uses GPT-4 by OpenAI. AnkiGPT already generated 2,773,134 flashcards.
+- [nilsreichardt/AnkiGPT](https://github.com/nilsreichardt/AnkiGPT) - Turn lecture slides into flashcards and export them to Anki. Uses GPT-4 by OpenAI. AnkiGPT already generated 2,807,496 flashcards.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix]
 - [jakubslaby09/dpc](https://github.com/jakubslaby09/dpc) - An app for managing a family chronicle using Git
@@ -1216,7 +1217,6 @@
 - [lesjoursfr/html-to-pdf](https://github.com/lesjoursfr/html-to-pdf) - Generate PDF from HTML with simple API in Node.js.
 - [JakeHartnell/HypothesisReader](https://github.com/JakeHartnell/HypothesisReader) - An integration of Hypothes.is and Epub.js
 - [jethrokuan/cortex](https://github.com/jethrokuan/cortex) - Hugo Theme for my Braindump
-- [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 - [tombetthauser/watercolor-basics](https://github.com/tombetthauser/watercolor-basics) - Some personal stuff that I observed help frustrated and talented art students over 10+ years making, learning and teaching art professionally for no reason.
 - [pjamar/htmls-to-datasette](https://github.com/pjamar/htmls-to-datasette) - Tool to index and serve HTML files. Powered by Datasette.
 - [EvanHahn/ffmpeg-buddy](https://github.com/EvanHahn/ffmpeg-buddy) - a lil webpage that helps you write ffmpeg commands
@@ -1526,6 +1526,7 @@
 ## JavaScript 
 
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
+- [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [egarrisxn/ats-resbuilder](https://github.com/egarrisxn/ats-resbuilder) - A professional, ATS-friendly resume builder designed for optimal job application success. Technologies: Next.js, React, JavaScript, MDX, Tailwind CSS, Vercel, & more.
 - [leomoon-studios/wiki-go](https://github.com/leomoon-studios/wiki-go) - A modern, feature-rich, databaseless flat-file wiki platform built with Go.
 - [gasparschott/smooth-navigator](https://github.com/gasparschott/smooth-navigator) - Smoothly cycle through open files and splits in Obsidian via the keyboard.
@@ -3201,7 +3202,6 @@
 
 ## PowerShell 
 
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - This repository has been moved to https://codeberg.org/janikvonrotz/awesome-powershell. Please visit the new location for the latest updates.
 - [SamErde/PSPreworkout](https://github.com/SamErde/PSPreworkout) - A special mix of tools to help jump start your PowerShell session!
 - [chadnpc/PsCraft](https://github.com/chadnpc/PsCraft) - A Toolbox to speed up common PowerShell development tasks.
@@ -3237,7 +3237,7 @@
 
 - [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - MCP server that interacts with Obsidian via the Obsidian rest API community plugin
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
-- [chonkie-inc/chonkie](https://github.com/chonkie-inc/chonkie) - 🦛 CHONK your texts with Chonkie ✨ — The no-nonsense RAG chunking library
+- [chonkie-inc/chonkie](https://github.com/chonkie-inc/chonkie) - 🦛 CHONK docs with Chonkie ✨ — The no-nonsense RAG library
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our 
@@ -3274,7 +3274,7 @@
 - [trancethehuman/spotify-chat](https://github.com/trancethehuman/spotify-chat) - Chat with your Spotify account using GPT &  LangChain AI Agent
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [simsapa/simsapa](https://github.com/simsapa/simsapa) - Simsapa Dhamma Reader
-- [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
+- [stitionai/devika](https://github.com/stitionai/devika) - Devika is now Opcode
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
 - [patrickloeber/ai-typing-assistant](https://github.com/patrickloeber/ai-typing-assistant) - AI powered local typing assistant built with Ollama
@@ -3715,7 +3715,7 @@
 - [PacktPublishing/Frank-Kanes-Taming-Big-Data-with-Apache-Spark-and-Python](https://github.com/PacktPublishing/Frank-Kanes-Taming-Big-Data-with-Apache-Spark-and-Python) - Frank Kane's Taming Big Data with Apache Spark and Python, published by Packt
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode
-- [iBug/This-Repo-Has-623-Stars](https://github.com/iBug/This-Repo-Has-623-Stars) - Yes, it's true :heartbeat: This repository has 623 stars.
+- [iBug/This-Repo-Has-625-Stars](https://github.com/iBug/This-Repo-Has-625-Stars) - Yes, it's true :purple_heart: This repository has 625 stars.
 - [joeyism/linkedin_scraper](https://github.com/joeyism/linkedin_scraper) - A library that scrapes Linkedin for user data
 - [ales-tsurko/cells](https://github.com/ales-tsurko/cells) - Live coding environment. Use SuperCollider, Python, TidalCycles, Node.js etc. in the same project.
 - [falkTX/Catia](https://github.com/falkTX/Catia) - Simple JACK Patchbay with A2J integration and JACK Transport controls
@@ -4173,7 +4173,7 @@
 ## SCSS 
 
 - [felixqueisler/Obsidian-FileLink-Styling](https://github.com/felixqueisler/Obsidian-FileLink-Styling) - Improves the way linked files are displayed in Obsidian, making them beautifully distinct from notes.
-- [subframe7536/obsidian-theme-maple](https://github.com/subframe7536/obsidian-theme-maple) - [Refactoring] Obsidian theme for desktop with graceful animation and awesome components
+- [subframe7536/obsidian-theme-maple](https://github.com/subframe7536/obsidian-theme-maple) - [1.0 Beta] Obsidian theme for desktop with graceful animation and awesome components
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [claire-codes/hugo-blog](https://github.com/claire-codes/hugo-blog) - 🐞✍️ Personal blog
 - [dessalines/essays](https://github.com/dessalines/essays) - A few essays on communism
@@ -4306,7 +4306,6 @@
 - [shawwn/llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's 65B parameter GPT model
 - [dwarvesf/research](https://github.com/dwarvesf/research) - This is where we store fleeting notes and focused topics. Composed by Dwarves
 - [swarmlet/swarmlet](https://github.com/swarmlet/swarmlet) - A self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more.
-- [nikitavoloboev/myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share what you use. Apps/CLIs/Libraries/Configs/..
 - [biox/pa](https://github.com/biox/pa) - a simple password manager. encryption via age, written in portable posix shell
 - [ax/apk.sh](https://github.com/ax/apk.sh) - Makes reverse engineering Android apps easier, automating repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [diracdeltas/tweets](https://github.com/diracdeltas/tweets) - janky twitter replacement.
@@ -4564,7 +4563,6 @@
 - [kaisdukes/quranic-corpus](https://github.com/kaisdukes/quranic-corpus) - The Quranic Arabic Corpus, an invaluable linguistic resource, is due for a revamp. We're calling on Linguistics, AI, and Tech volunteers to join us in this exciting journey. 🚀
 - [baryhuang/claude-code-by-agents](https://github.com/baryhuang/claude-code-by-agents) - Desktop app and API created in public for multi-agent Claude Code orchestration - coordinate local and remote agents through @mentions.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
-- [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [tu2-atmanand/Task-Board](https://github.com/tu2-atmanand/Task-Board) - An Obsidian plugin to view and manage your tasks from whole vault in a much efficient Kanban board format.
 - [slatinsky/DiscordChatExporter-frontend](https://github.com/slatinsky/DiscordChatExporter-frontend) - Browse json files exported by Tyrrrz/DiscordChatExporter in familiar discord like user interface
 - [peterhanania/Discord-Package](https://github.com/peterhanania/Discord-Package) - A detailed Discord data package explorer designed to help users visualize the data Discord collects.
@@ -4573,6 +4571,7 @@
 - [Jenseits1/resume-json](https://github.com/Jenseits1/resume-json) - Resume.json is your go-to web application for crafting stunning resumes with ease
 - [RylanBot/resume-json-pdf](https://github.com/RylanBot/resume-json-pdf) - 📑 Build your PDF resume using a JSON file「简历生成器」
 - [GengAd/obsidian-personal-os](https://github.com/GengAd/obsidian-personal-os) - 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [ebullient/obsidian-day-planner-og](https://github.com/ebullient/obsidian-day-planner-og) - An Obsidian plugin for day planning and managing pomodoro timers from a task list in a Markdown note.
 - [nuotsu/sanitypress](https://github.com/nuotsu/sanitypress) - Fully customizable Sanity.io starter template with Next.js 15 and Tailwind 4
@@ -4698,7 +4697,7 @@
 - [vitling/acid-banger](https://github.com/vitling/acid-banger) - The Endless Acid Banger
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
 - [nathanlesage/local-chat](https://github.com/nathanlesage/local-chat) - LocalChat is a ChatGPT-like chat that runs on your computer
-- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [ECuiDev/obsidian-quiz-generator](https://github.com/ECuiDev/obsidian-quiz-generator) - Generate interactive flashcards from your notes using models from OpenAI (ChatGPT), Google (Gemini), Ollama (local LLMs), and more. Or manually create your own to use with the quiz UI.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [stippi/voice-assistant](https://github.com/stippi/voice-assistant) - A Voice Assistant in your Browser.
@@ -4832,7 +4831,7 @@
 - [plugins-galore/obsidian-plugins-galore](https://github.com/plugins-galore/obsidian-plugins-galore) - This is an Obsidian plugin to allow easily sideloading other plugins.
 - [BumbrT/obsidian-reading-comments](https://github.com/BumbrT/obsidian-reading-comments) - Reading comments, for consuming books or large articles in markdown with https://obsidian.md/.
 - [cosmicoptima/loom](https://github.com/cosmicoptima/loom) - A Loom implementation in Obsidian
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Uptime monitoring & API monitoring as code with status page 🫖
 - [ctate/codeless](https://github.com/ctate/codeless) - Use AI to craft UIs
 - [getezy/ezy](https://github.com/getezy/ezy) - 🔥 GUI client for gRPC/gRPC-Web
 - [fill3d/fill](https://github.com/fill3d/fill) - Generative fill in 3D.
@@ -4955,6 +4954,7 @@
 - [macaron-css/macaron](https://github.com/macaron-css/macaron) - Compiler-augmented typesafe CSS-in-JS with zero runtime, colocation, maximum safety and productivity
 - [Mokshit06/typewind](https://github.com/Mokshit06/typewind) - The safety of Typescript with the magic of Tailwind.
 - [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style p
+- [nikitavoloboev/myflow](https://github.com/nikitavoloboev/myflow) - Place to share & store what you use
 - [Princesseuh/astro-eleventy-img](https://github.com/Princesseuh/astro-eleventy-img) - Astro + eleventy-img
 - [thingnotok/obsidian-toggle-list](https://github.com/thingnotok/obsidian-toggle-list) - This is a simple plugin for Obsidian to overwrite the default behavior of toggle checkbox status. Also, it offers a simple way to toggle through frequently used attributes: task states, task tags, hig
 - [jplattel/obsidian-query-language](https://github.com/jplattel/obsidian-query-language) - An Obsidian plugin allowing you to query your notes
